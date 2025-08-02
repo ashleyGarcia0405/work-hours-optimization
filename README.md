@@ -209,6 +209,3 @@ jupyterlab>=4.0
 ```
 
 ---
-
-**Contact:** add your email / LinkedIn.
-**License:** MIT (or your choice).
