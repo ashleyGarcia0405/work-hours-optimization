@@ -1,7 +1,3 @@
-Here’s a clean, copy-paste **README.md** you can use. Tweak the org name / links as needed.
-
----
-
 # Work-Hours Optimization (UCI Adult / Census)
 
 Predict whether an individual earns **> \$50K** from hours worked **plus** demographics, then surface insights about **who is over/under-compensated** relative to workload.
